@@ -27,12 +27,12 @@ h1 {
 }
 
 #beef {
-  background-color: red;
-  color: white;
+  background-color: grey;
+  color: black;
 }
 
 #sushi {
-  background-color: #ffff99;
+  background-color: blue;
 }
 
 .row {
