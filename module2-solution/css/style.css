@@ -4,12 +4,14 @@
 
 h1 {
   text-align: center;
-  margin-bottom: 35px;
+  font-weight: bold;
+  margin-bottom: 20px;
 }
 
 .title {
   border: 1px solid black;
   font-weight: bold;
+  font-style: italic;
   position: absolute;
   right: 0;
   width: 150px;
@@ -24,15 +26,17 @@ h1 {
 
 #chicken {
   background-color: #ffb3b3;
+  color: blue;
 }
 
 #beef {
-  background-color: grey;
+  background-color: red;
   color: black;
 }
 
 #sushi {
-  background-color: blue;
+  background-color: yellow;
+  color: blue;
 }
 
 .row {
